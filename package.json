@@ -1,0 +1,23 @@
+{
+  "name": "mysimplenpmtest",
+  "version": "1.0.0",
+  "description": "my simple npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sintokp/mysimplenpmtest.git"
+  },
+  "keywords": [
+    "test",
+    "simple"
+  ],
+  "author": "sinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sintokp/mysimplenpmtest/issues"
+  },
+  "homepage": "https://github.com/Sintokp/mysimplenpmtest#readme"
+}
